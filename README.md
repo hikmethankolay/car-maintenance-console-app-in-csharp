@@ -1,9 +1,3 @@
-/**
- * @file README.md
- *
- * @brief Readme file for the Car Maintenance Console Application.
- */
-
 ## Overview
 The Car Maintenance Console Application is a user-friendly tool that helps users manage and maintain records of vehicle service history, maintenance reminders, expenses, and fuel efficiency reports. It also incorporates a robust User Authentication system to ensure data security.
 
